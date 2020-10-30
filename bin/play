@@ -8,3 +8,10 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
 play(board)
+
+def play(board)
+  turn = 0
+  while turn < 9
+    turn += 1
+  end
+  end
