@@ -38,7 +38,6 @@ end
 def play(board)
   counter = 0
   until counter == 9
-    puts "next move"
     counter += 1
   end
   end
